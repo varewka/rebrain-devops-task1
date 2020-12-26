@@ -1,1 +1,1 @@
-New commit
+Add nginx.conf wiht defoult configuration
